@@ -192,7 +192,8 @@ EOF;
     stopOnFailure="false"
     stopOnIncomplete="false"
     stopOnSkipped="false"
-    verbose="false"
+    verbose="true"
+    processIsolation="true"
     beStrictAboutTestsThatDoNotTestAnything="false"
 >
     <testsuites>
